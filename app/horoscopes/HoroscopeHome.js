@@ -57,7 +57,7 @@ export default function HoroscopeHome({ data, error }) {
         <StaticSignComponent SignCategory="DailyHoroscope" />
 
         <FormComponent formCategory="Static" />
-        <h1>hhh</h1>
+       
 
         <div className="avspeaks-promo">
           <div className="container">
